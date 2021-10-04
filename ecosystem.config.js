@@ -1,7 +1,7 @@
 module.exports = {
 	apps: [
 		{
-			name: 'happy_birthday_orly',
+			name: 'happy_birthday_elijah',
 			script: 'server.js',
 			instances: 'max',
 			autorestart: true,
