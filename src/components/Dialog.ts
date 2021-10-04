@@ -130,7 +130,7 @@ export class Dialog {
 	): boolean {
 		return (
 			this.currentDialog.type === 'number' ||
-			this.currentDialog.answers.find(a => a === inputAnswer) != null
+			this.currentDialog.answers.find(a => a.toLowerCase() === inputAnswer) != null
 		);
 	}
 
