@@ -128,9 +128,13 @@ export class Dialog {
 	private answerIsCorrect(
 		inputAnswer: string | number = this.getAnswer()
 	): boolean {
+		// this.currentDialog.answers.find(a => {
+		// 	console.log(`${a} === ${inputAnswer} -> ${a === inputAnswer}`);
+		// })
+		// NIH YG DIBENERIN
 		return (
 			this.currentDialog.type === 'number' ||
-			this.currentDialog.answers.find(a => a === inputAnswer) != null
+			this.currentDialog.answers.find(a => a.toLowerCase() === inputAnswer) != null
 		);
 	}
 
