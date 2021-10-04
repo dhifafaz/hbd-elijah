@@ -19,3 +19,4 @@ dump/
 *.old*
 higherVolume/
 yarn.lock
+package-lock.json
