@@ -1,7 +1,7 @@
-# [Happy Birthday, Elijah!](https://happy-birthday-orly.herokuapp.com) 
+# [Happy Birthday, Elijah!](habede-elijak.netlify.app) 
 Simple HTML5 game created for the birthday of our Bestiee Elijah Sutowo.  
 Built with [Phaser 3](https://phaser.io/phaser3) game framework.  
-[Enjoy!](...) 
+[Enjoy!](habede-elijak.netlify.app) 
 
 # Setup
 

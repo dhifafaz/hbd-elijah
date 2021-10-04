@@ -1,7 +1,7 @@
 {
-	"name": "happy-birthday-orly",
+	"name": "happy-birthday-elijah",
 	"version": "1.0.0",
-	"description": "Simple HTML5 game created for the birthday of my beloved girlfriend Orly.",
+	"description": "Simple HTML5 game created for the birthday of our Bestie Elijah.",
 	"author": "alexeychikk",
 	"main": "src/game.ts",
 	"repository": {
