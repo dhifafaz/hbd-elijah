@@ -17,22 +17,7 @@ const DIALOGS: ILevelDialog[] = [
 		question:
 			'What is your best WAG in the world?<br>' +
 			'<span class="dialog-hint">(...they made this game)</span>',
-		answers: [
-			'SobatBestie',
-			'Bestie',
-			'PDIP',
-			'SOBATBESTIE',
-			'SobatBestie',
-			'Bestie',
-			'PDIP',
-			'SobatBestie',
-			'SobatBestie',
-			'Bestie',
-			'PDIP',
-			'SobatBestie',
-			'SobatBestie',
-			'Bestie',
-		],
+		answers: ['SobatBestie', 'Bestie','BESTIE','SOBAT BESTIE','SOBAT','best'],
 		hint: '(?) Come on, just look at your WhatsApp!'
 	},
 	{
